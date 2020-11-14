@@ -1,4 +1,14 @@
+#include <stdio.h>
 
+void iniciarTablero();
+void mostrarTablero(int band); 
+void leerCoordenadas(FILE *f);
+
+int tablero[10][10];
+
+int main() 
+{
+	FILE *f;
 	
 	iniciarTablero();
 	mostrarTablero(0);
