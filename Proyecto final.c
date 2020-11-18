@@ -1,4 +1,4 @@
-//A ver si esto es de tu talla//
+//A ver//
 
 #include <stdio.h>
 
