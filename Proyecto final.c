@@ -1,3 +1,4 @@
+/////////////A ver si esto de de tu talla///////
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
